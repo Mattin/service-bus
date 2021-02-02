@@ -23,7 +23,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.1",
+        "php": "^8.0",
         "prooph/common" : "^4.0.0"
     },
     "require-dev": {
